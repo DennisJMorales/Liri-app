@@ -1,0 +1,9 @@
+=======Movie Log=======
+Movie Title: Terminator
+Year Released: 1991
+IMDB Rating: 6.2
+Rotten Tomatoes Rating: undefined
+Country Where Produced: USA
+Language: English
+Plot: A cyborg comes from the future, to kill a girl named Sarah Lee.
+Actors: Loris Basso, James Callahan, Debbie Medows, Michelle Kovach
